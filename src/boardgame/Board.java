@@ -19,7 +19,7 @@ public class Board {
 		return rows;
 	}
 
-	public int getColums() {
+	public int getColumns() {
 		return columns;
 	}
 
